@@ -58,11 +58,6 @@ I enjoy building complete systems — from data and models to APIs and dashboard
 
 ---
 
-### 📊 GitHub Stats
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baroudioussama&show_icons=true&locale=en&layout=compact" alt="baroudioussama" /></p>"
----
-
 <p align="center">
   💡 <i>Always learning. Always building.</i>
 </p>
