@@ -1,63 +1,59 @@
-<h1 align="center">Hi 👋, I'm Baroudi Oussama</h1>
+<div align="center">
 
-<h3 align="center">
-ICT Student • AI & Machine Learning Enthusiast • Backend & ML Projects
-</h3>
 
-<p align="center">
-Curious, disciplined, and project-driven student with a strong interest in
-<b>Artificial Intelligence, Machine Learning, and Computer Vision</b>.
-I enjoy building complete systems — from data and models to APIs and dashboards.
-</p>
+
+# Hi, I'm Oussama Baroudi 👋
+
+### ICT Student | Cybersecurity & Network Engineering
+
+</div>
+
+Network-focused ICT student with hands-on experience in network operations and security monitoring — configuring switches/routers and provisioning last-mile connectivity at **Tunisie Telecom**, and working with a SOC team on log and firewall verification at **CNRPS**. I build and document independent projects that go deeper into both sides of the field: secure network design and penetration testing.
+
+---
+
+### 🔧 Featured Projects
+
+**[Two-Site Enterprise Network Design](https://github.com/baroudioussama/packet-tracer-enterprise-network-lab)**
+Redundant two-site network built in Cisco Packet Tracer — VLAN segmentation, OSPF routing, HSRP gateway failover, and ACL-based hardening, with a validated connectivity matrix proving the design holds.
+
+**[Penetration Testing Lab](https://github.com/baroudioussama/metasploitable2-pentest-lab)**
+Full vulnerability assessment using Nmap and Metasploit — 12 findings documented with severity, evidence, and remediation, including an exploited FTP backdoor and a manually diagnosed SQL injection.
 
 ---
 
 ### 🌱 Currently Learning
-- Machine Learning & Deep Learning  
-- Model evaluation & optimization  
-- MLOps basics (Docker, deployment, pipelines)
+
+- Microsoft SC-900 — Security, Compliance & Identity Fundamentals
 
 ---
 
-### 👨‍💻 Projects
-- 📂 All my projects are available here 👉  
-  **[github.com/baroudioussama](https://github.com/baroudioussama)**
+### 🧰 Skills & Tools
+
+**Networking**
+
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Security**
+
+![Nmap](https://img.shields.io/badge/Nmap-00758F?style=for-the-badge&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+**Dev & Systems**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-### 📫 Contact Me
-- 📧 **baroudi.oussema@etudiant-fst.utm.tn**
-- 💼 LinkedIn:  
-  <a href="https://www.linkedin.com/in/oussama-baroudi-9b333b2a2" target="_blank">
-    Oussama Baroudi
-  </a>
+### 📫 Contact
+
+- 📧 baroudi.oussema@etudiant-fst.utm.tn
+- 💼 [LinkedIn](https://www.linkedin.com/in/oussama-baroudi-9b333b2a2)
+- 🌐 [baroudioussama.github.io](https://baroudioussama.github.io)
 
 ---
 
-### 🧰 Languages & Tools
+<div align="center">
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-</p>
+💡 *Understanding how networks are built — and how they're attacked.*
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-</p>
-
----
-
-<p align="center">
-  💡 <i>Always learning. Always building.</i>
-</p>
+</div>
